@@ -5,7 +5,7 @@
 
 This Snake game was created using Python and the "Turtle Graphics" library to demonstrate and practice OOP programming concepts.
 
-This version of the Snake game is based of the mobile version of Snake introduced by Nokia on mobile phones in the late 90s. However, the "Snake game" genre dates back to the 70s, when the game concept was first introduced on the arcade game "Blockade". 
+This version of the Snake game is based on the mobile version of Snake introduced by Nokia on mobile phones in the late 90s. However, the "Snake game" genre dates back to the 70s, when the game concept was first introduced on the arcade game "Blockade". 
 
 The goal of the game is to eat the randomly generated blue food dot without touching yourself or going outside game boundaries. The score is shown at the top of the screen. 
 
